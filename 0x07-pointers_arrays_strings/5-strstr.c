@@ -10,7 +10,7 @@
  * If	the	substring	is	not	located	-	NULL.
  */
 
-char	*_strstc(char	*haystack,	char	*needle)
+char	*_strstr(char	*haystack,	char	*needle)
 {
 	int     index;
 
